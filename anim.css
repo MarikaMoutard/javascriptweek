@@ -1,0 +1,24 @@
+html
+{
+  background-color: #e7aabe;
+}
+
+.visuampoule
+{
+  margin: 300px auto;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+}
+
+#animation1 path, #animation1 line
+{
+    stroke-width: 8px;
+    stroke: white;
+    fill: none;
+}
+
+#animation1:hover #ampoule2
+{
+    fill: rgba(246, 227, 123, 0.8);
+}
